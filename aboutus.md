@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Seoul Bitcoin
+title: About Us
 subtitle: Why you'd want to be part of our community
 ---
 
