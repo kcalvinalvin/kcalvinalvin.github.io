@@ -23,7 +23,7 @@ description: Home of the Seoul Bitcoin community
 
 # List of links in the navigation bar
 navbar-links:
-  About Us: "aboutme"
+  About Us: "aboutus"
   Resources:
     - Seoul Bitcoin YouTube: "http://youtube.seoulbitcoin.kr"
     - Other learning Resources: "https://lopp.net/bitcoin.html"
