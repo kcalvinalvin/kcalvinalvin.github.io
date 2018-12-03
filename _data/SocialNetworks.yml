@@ -63,7 +63,7 @@ instagram:
 
 youtube:
   name: "YouTube"
-  baseURL: "https://youtube.seoulbitcoin.kr/"
+  baseURL: "https://www.youtube.com/"
   icon: "fa-youtube"
 
 spotify:
