@@ -18,11 +18,11 @@ Check out [this video](http://youtu.be/rrr_zPmEiME) for a detailed but simple ex
 
 The only catch is that this awesome open source technology is still in its infancy, which is why we’re organizing this hackathon. We’ll save you the technical hassle of connecting to the Lightning Network so you can focus on building amazing Lightning apps and experiment with the massive potential!
 
->10am – 11am: Introduction to Lightning and API demo (be on time!)
->
->11am – 4:30pm: Brainstorm and build Lightning apps (+ lunch break)
->
->4:30pm – 6pm: ten-minute demo presentations for each group
+**10am – 11am**: Introduction to Lightning and API demo (be on time!)
+
+**11am – 4:30pm**: Brainstorm and build Lightning apps (+ lunch break)
+
+**4:30pm – 6pm**: ten-minute demo presentations for each group
 
 In order to build balanced teams, we are encouraging programmers to sign up. All that’s required is that you can build an interactive app or website and access an API (demo code available in Node JS and PHP). Of course people with other skill sets are welcome too.
 
