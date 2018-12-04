@@ -18,7 +18,7 @@ Check out [this video](http://youtu.be/rrr_zPmEiME) for a detailed but simple ex
 
 The only catch is that this awesome open source technology is still in its infancy, which is why we’re organizing this hackathon. We’ll save you the technical hassle of connecting to the Lightning Network so you can focus on building amazing Lightning apps and experiment with the massive potential!
 
-# Sat January 5th, 10am to 6pm, in [Hongdae](https://goo.gl/maps/Z8JQd9iVa6v)
+# Jan 5th (Sat), 10am – 6pm, [Hongdae](https://goo.gl/maps/Z8JQd9iVa6v)
 
 **10am – 11am**: Introduction to Lightning and API demo (be on time!)
 
