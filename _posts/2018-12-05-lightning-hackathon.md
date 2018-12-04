@@ -9,16 +9,20 @@ What kind of apps would you build if sending tiny amounts of money was as easy a
 ![Lightning Hackathon](/img/hackathon.jpg)
 
 - It’s fast – Payments are confirmed within a few seconds
+
 - It’s cheap – Fees are a fraction of a cent, you won’t even notice them
+
 - It’s permissionless – There are no gatekeepers that can deny you access
 
 Check out [this video](http://youtu.be/rrr_zPmEiME) for a detailed but simple explanation.
 
 The only catch is that this awesome open source technology is still in its infancy, which is why we’re organizing this hackathon. We’ll save you the technical hassle of connecting to the Lightning Network so you can focus on building amazing Lightning apps and experiment with the massive potential!
 
-- 10am – 11am: Introduction to Lightning and API demo (be on time!)
-- 11am – 4:30pm: Brainstorm and build Lightning apps (+ lunch break)
-- 4:30pm – 6pm: ten-minute demo presentations for each group
+>10am – 11am: Introduction to Lightning and API demo (be on time!)
+>
+>11am – 4:30pm: Brainstorm and build Lightning apps (+ lunch break)
+>
+>4:30pm – 6pm: ten-minute demo presentations for each group
 
 In order to build balanced teams, we are encouraging programmers to sign up. All that’s required is that you can build an interactive app or website and access an API (demo code available in Node JS and PHP). Of course people with other skill sets are welcome too.
 
