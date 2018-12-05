@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lightning Hackathon (Jan 5th)
+title: Lightning Hackathon
 subtitle: Come build apps with Instant Permissionless Micropayments!
 tags: [seoul bitcoin, hackathon, meetup]
 ---
