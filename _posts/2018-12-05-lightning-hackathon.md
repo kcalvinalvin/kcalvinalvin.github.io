@@ -20,11 +20,11 @@ The only catch is that this awesome open source technology is still in its infan
 
 # Jan 5th (Sat), 10am – 6pm, [Hongdae](https://goo.gl/maps/Z8JQd9iVa6v)
 
-**10am – 11am**: Introduction to Lightning and API demo (be on time!)
+**10:15am – 11:00am**: Introduction to Lightning and API demo (be on time!)
 
-**11am – 4:30pm**: Brainstorm and build Lightning apps (+ lunch break)
+**11:00am – 4:30pm**: Brainstorm and build Lightning apps (+ lunch break)
 
-**4:30pm – 6pm**: ten-minute demo presentations for each group
+**4:30pm – 5:45pm**: ten-minute demo presentations for each group
 
 In order to build balanced teams, we are encouraging programmers to sign up. All that’s required is that you can build an interactive app or website and access an API (demo code available in Node JS and PHP). Of course people with other skill sets are welcome too.
 
