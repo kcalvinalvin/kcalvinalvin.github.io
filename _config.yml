@@ -75,7 +75,7 @@ social-network-links:
   email: "meetup@seoulbitcoin.kr"
   facebook: seoulbitcoinmeetup
 #  github: daattali
-  twitter: Seoulbitcoin
+  twitter: SeoulBitcoin
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -145,7 +145,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: " Asia/Seoul"
+timezone: "Asia/Seoul"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
