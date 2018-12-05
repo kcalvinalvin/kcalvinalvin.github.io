@@ -16,7 +16,7 @@ What kind of apps would you build if sending tiny amounts of money was as easy a
 
 Check out [this video](http://youtu.be/rrr_zPmEiME) for a detailed but simple explanation of the Lightning Network.
 
-The only catch is that this awesome open source technology is still in its infancy, which is why we’re organizing this hackathon. We’ll save you the technical hassle of connecting to the Lightning Network so you can focus on building amazing Lightning apps and experiment with the massive potential!
+The only catch is that this awesome open source technology is still in its infancy, which is why we’re organizing this hackathon. We’ll save you the technical hassle of connecting to the Lightning Network (with the help of [OpenNode](https://www.opennode.co)) so you can focus on building amazing Lightning apps and experiment with the massive potential!
 
 # Jan 5th (Sat), 10am – 6pm, [Hongdae](https://goo.gl/maps/Z8JQd9iVa6v)
 
