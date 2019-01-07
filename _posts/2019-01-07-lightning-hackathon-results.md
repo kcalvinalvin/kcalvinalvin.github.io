@@ -13,7 +13,7 @@ The apps are:
 
 - [Anty Influencer](https://www.youtube.com/watch?v=FHdao4kNp3o&index=2&list=PL1ag2C4FPqOvEg07XJBSj9x0wRUVv_6kt) – Countering social media negativity with donations
 - [Incentivized Sharing / Crush Pay](https://www.youtube.com/watch?v=CEwRv7qw4fY&index=3&list=PL1ag2C4FPqOvEg07XJBSj9x0wRUVv_6kt) – Get rewarded for sharing good content
-- [Pay for Execution](https://www.youtube.com/watch?v=0y_8M2DOtz8&index=4&list=PL1ag2C4FPqOvEg07XJBSj9x0wRUVv_6kt) – Pay for generating a haiku with on Telegram ([demo](https://t.me/lightingNetworkHackathon_bot)) ([code](https://github.com/prokopevaleksey/lightningNetworkHackathon2019january/blob/master/haikuBot.py))
+- [Pay for Execution](https://www.youtube.com/watch?v=0y_8M2DOtz8&index=4&list=PL1ag2C4FPqOvEg07XJBSj9x0wRUVv_6kt) – Pay for generating a haiku over Telegram ([demo](https://t.me/lightingNetworkHackathon_bot)) ([code](https://github.com/prokopevaleksey/lightningNetworkHackathon2019january/blob/master/haikuBot.py))
 - [Limichat](https://www.youtube.com/watch?v=6kBkCLoLukw&list=PL1ag2C4FPqOvEg07XJBSj9x0wRUVv_6kt&index=5) – Limit the number of chat messages via payment ([more info](https://medium.com/@RubenSomsen/limichat-lightning-chat-app-5540615e8369)) ([full app](https://limichat.herokuapp.com))
 
 ![Hackathon in Progress](/img/hackingaway.jpeg)
