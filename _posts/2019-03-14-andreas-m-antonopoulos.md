@@ -25,6 +25,6 @@ To learn more about Andreas and his work, visit his website at ​[antonopoulos.
 
 ## Apr 5 (Fri), 6:30 – 9pm, [Google Campus](https://goo.gl/maps/UKSCEecfZB72)
 
-# In order to join you [need to RSVP on Meetup](https://www.meetup.com/seoulbitcoin/events/259695047/). 
+# In order to join you [need to RSVP here](https://www.meetup.com/seoulbitcoin/events/259695047/).
 
 Tickets are free but limited, so please make sure to cancel your RSVP if you cannot make it. If you are new to our Meetup, please also take a moment to [read what we are about](https://seoulbitcoin.kr/aboutus/). There won't be food available at the venue. However, you are allowed to bring something in.
