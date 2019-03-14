@@ -15,3 +15,5 @@ There are many alternative coins out there that make false claims of superiority
 You can find us on [Meetup](https://www.meetup.com/seoulbitcoin), [YouTube](https://www.youtube.com/channel/UC9ygnvBkGNTSNcfNjHAt6xQ/videos), [Twitter](https://www.twitter.com/SeoulBitcoin), [Facebook](https://www.facebook.com/seoulbitcoinmeetup), and [Kakaotalk](https://goo.gl/v26V7Z). For those who are willing to dive deeper, we also offer weekly in-depth tech meetups.
 
 It is our hope that gaining a deeper understanding of Bitcoin will lead to a deeply motivated community.
+
+![Seoul Bitcoin group](/img/hackathon-complete.jpg)
