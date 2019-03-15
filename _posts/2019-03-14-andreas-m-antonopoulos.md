@@ -21,7 +21,7 @@ Schedule
 
 Andreas M. Antonopoulos is a best-selling author, speaker, educator, and one of the world’s foremost bitcoin experts. He is known for delivering electric talks that combine economics, psychology, technology, and game theory with current events, personal anecdotes, and historical precedent, effortlessly transliterating the complex issues of blockchain technology out of the abstract and into the real world.
 
-To learn more about Andreas and his work, visit his website at ​[antonopoulos.com](https://www.antonopoulos.com)​.
+To learn more about Andreas and his work, visit his website at ​[antonopoulos.com](https://antonopoulos.com)​.
 
 ## Apr 5 (Fri), 6:30 – 9pm, [Google Campus](https://goo.gl/maps/UKSCEecfZB72)
 
