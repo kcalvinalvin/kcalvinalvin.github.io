@@ -5,7 +5,7 @@ subtitle: "Join us to learn how bitcoin works and how to build Lightning apps"
 tags: [seoul bitcoin, meetup, hackathon]
 ---
 
-After our [big event with Andreas M. Antonopoulos](https://www.meetup.com/seoulbitcoin/events/259695047/), it is now time to follow up with a series of events to help those who are excited about bitcoin! If you keep up with the program, you'll be much more knowledgeable than the average cryptocurrency enthusiast, and during the hackathon you can even learn how to create apps that accept bitcoin micropyaments throug the Lightning Network!
+After our [big event with Andreas M. Antonopoulos](https://www.meetup.com/seoulbitcoin/events/259695047/), it is now time to follow up with a series of events to help those who are excited about bitcoin! If you keep up with the program, you'll be much more knowledgeable than the average cryptocurrency enthusiast, and during the hackathon you can even learn how to create apps that accept bitcoin micropyaments through the Lightning Network!
 
 Check out the schedule below. We highly encourage you to sign up to everything (but please do update your RSVP to 'No' if you can't make it):
 
