@@ -11,8 +11,9 @@ Check out the schedule below. We highly encourage you to sign up to everything (
 
 **Sat Apr 20th, 3pm to 6pm**: [Introduction to Bitcoin and the Lightning Network](https://www.meetup.com/seoulbitcoin/events/xgcprqyzhbgb/)
 
-**Sat May 11th, 10am to 6pm**: [Our 2nd Lightning Network hackathon](https://www.meetup.com/seoulbitcoin/events/260365063/) (see our previous hackathon [here](https://seoulbitcoin.kr/2018-12-05-lightning-hackathon/) and [here](https://seoulbitcoin.kr/2019-01-07-lightning-hackathon-results/))
+**Sat May 11th, 10am to 6pm**: [Our 2nd Lightning Network hackathon](https://www.meetup.com/seoulbitcoin/events/260365063/)
+(see our previous hackathon [here](https://seoulbitcoin.kr/2018-12-05-lightning-hackathon/) and [here](https://seoulbitcoin.kr/2019-01-07-lightning-hackathon-results/))
 
-**Date TBD (~3 hours)**: Lightning Network Deep Dive (details will be revealed at the hackathon)
+**TBD**: Lightning Network Deep Dive (details will be revealed at the hackathon)
 
 Thank you for your interest, we look forward to meeting you in person! If you are new to our Meetup, please also take a moment to [read what we are about](https://seoulbitcoin.kr/aboutus/).
